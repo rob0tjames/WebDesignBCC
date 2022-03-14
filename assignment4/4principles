@@ -1,1 +1,101 @@
+<html>
+<head>
 
+<style>
+body {
+background-color: ffffff;
+}
+ol.a {
+	list-style-type: upper-roman;
+}	
+
+p.a {
+	margin-top: -23px;
+}
+
+a.a {
+	line-height: 0px;
+	margin-top: -10px;
+	margin-left: 7px;
+}
+
+h2.a {
+	margin-bottom: 10px;
+}
+</style>
+<title> BCC Design Homework </title>
+</head>
+
+<body>
+
+<h1> Contrast, Repetition, Alignment, and Proximity </h1>
+
+<p class="a">Below, I examine four websites, covering the four essential web design principles, as titled above.</p> 
+
+<h2 class="a">Contrast</h2>
+<a class="a" href="https://stopaapihate.org/"><strong>Stop AAPI Hate</strong> </a>
+<ul>
+<li>The Organization Stop AAPI Hate has good examples of Contrast</li>
+<li>Most notably, the colors. The stark black and white, with the bright<br>
+yellow really stand out.</li>
+<li>The logo and body give contrast through type with a hand painted<br>
+logo paired with a sans-serif font.</li>	
+</ul>
+<img src="https://lh3.googleusercontent.com/c4-lSHs8GbrfSJStb2ECPIRlOhZj_1o49s0n0im4oRpQQHEhucevZrivVu_LrXpikvR-uT6tEI_6npz2gig6TWaI9TdC1C8I2fst01w9lzXwP3c86FzY3-iHucTij4J486kPPaiwaQ=w600" /> </a>
+
+<h2 class="a">Repetition</h2>
+<a class="a" href="https://heyday.xyz/"><strong>Heyday</strong></a>
+<ol>
+<li>Heyday has a simple to navigate homepage, that shows repetition through<br>
+	color and placement.</li>
+<li>As you scroll through each section of information, colors alternate, and<br>
+	while the colors themselves rarely repeat, the alternation forms a pattern,<br>
+	which is an aspect of repetition in web design.  </li>
+<li>With each alternating color, the content flips from side to side, usually<br>
+	a picture on one side, and text on the other. Another form of repetition<br>
+	at work</li>
+</ol>
+<img src="https://lh3.googleusercontent.com/bari_aeQaWp2DQUvjenu-k978ee3yyDn88anrc-fttVtN8GQSEfsNcQT08U8E1Rzqv1UKt07dUbN7ngYXUP1qspLNebtIJwuDd94b3wcYdhcJnXPmUk3n4P1tbfDe5QBYG1c4Ruyyg=w600" /> </a>
+
+<h2 class="a">Alignment</h2>
+<a class="a" href="https://www.wannabe.toys/category/all"><strong>Wannabe Toys Shop Page</strong></a>
+<dl>
+	<dt>Why Just the Shop Page?</dt>
+	<dd>Well their whole site, in my opinion, actually shows off all 4 terms,<br>
+	however I really enjoyed the shop.</dd>
+	<br>
+	<dt>Alignment as Organization</dt>
+	<dd>The well designed grid organizes their toys in an easy to navigate and<br>
+	absorb way.</dd>
+	<br>
+	<dt>Well Designed Alignment</dt>
+	<dd>I used this example because I thought their approach made a simple grid<br> 
+	alignment really aesthticaly pleasing, but at the same time it does not <br>
+	distract from the content itself.</dd>
+</dl>
+<img src="https://lh3.googleusercontent.com/38tsXFvVvNPy9ph7ib4nPgbRRQdvnh9k2rLVLypnszcciXEe2gQgJBz7jDiKYB2mO976CYC3FfsY_ngM8W7eYrquLFy9Ck4z8zIvFhdo52fDK_TcYml-7kMqZDap8eRMCKCkTuP8XA=w600" /> </a>
+
+<h2 class="a">Proximity</h2>
+<a class="a" href="https://www.bhroovi.com/about"><strong>Bhroovi Gupta's About Page</strong></a>
+<ol class="a">
+<li>Bhroovi's site also features a lot of design elements, but I really enjoyed<br> 
+	the proximity.</li>
+<li>In particular, I thought her picture and her about me text was well balanced,<br>
+	with the picture grabbing you first, and then naturally leading you to the words.<br>
+	Contrast is also doing some good work here too. </li>
+<li>The approximate similar size between the portrait and the body text, while<br>
+	being centered within squares of color, feel like well hung art pieces in a <br>
+	gallery or museum.</li>
+</ol>
+<img src="https://lh3.googleusercontent.com/EOYx-wzUnBUS4VdGXfpAyBpn5EIx90cki-E4wIyYiccymsD9SeVvFGj2YV2Ok9yT2ZECSPU2JFBkc8JpRv9TKsh4WkI3uFwaAB-xn-0thdUNvpLRKIT0EpnitXhNO99JcY0zWL5tPA=w600" /> </a>
+
+<h1> In Conclusion... </h1>
+<p>
+I noticed most websites that I got my examples from actually exhibited multiple design<br>
+elements of the four that we learned in the assignment. It really helps one realize the<br>
+importance of incorporating these into web design.</p> 
+<br>
+<br>
+<br>
+</body>
+</html>
