@@ -1,0 +1,139 @@
+body {
+	background-color: #fdfada;
+}
+
+.works {
+	font-family: basic-sans, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 2vw;
+
+}
+
+.jumbotron {
+    padding: 3em;
+}
+
+.mint {
+	background: #c9e5c8;
+}
+
+.salmon {
+	background: #e2c0ad;
+}
+
+.lavender {
+	background: #a4a7d4;
+}
+
+.btn-jb {
+	border-style: none;
+	border-radius: 15px;
+	font-family: gitan-latin, sans-serif;
+	font-weight: 600;
+	font-style: normal;
+	font-size: 2vw;
+	color: #2b1811;
+	padding: 15px;
+	padding-bottom: 20px;
+	margin: 5px;
+	display: inline-flex;
+}
+
+.btn-jb:hover, .btn-jb:focus, .button-jb:visited, .btn-jb.active, .btn-jb:link {
+    color:#2b1811;
+    background-color: #e0dff0;
+    border-style: none !important;
+    outline: none;
+    border-color: none;
+    overflow: none;
+}
+
+.btn-jb:active  {
+    color:#2b1811;
+    background-color: #e0dff0;
+    border-style: none !important;
+    overflow: none;
+}
+
+.btn-light {
+	border-style: none;
+	border-color: none;
+}
+
+button {
+	overflow: none;
+}
+
+.lav2 {
+	background: #e0dff0;
+}
+
+.brown {
+	color: #2b1811;
+}
+
+.jbh1 {
+	font-family: tuppence,serif;
+	font-weight: 700;
+	font-style: italic;
+	font-size: 8vw;
+	margin-top: -10px;
+	color: #2b1811;
+}
+
+.jbh2 {
+	font-family: tuppence,serif;
+	font-weight: 700;
+	font-style: italic;
+	font-size: 4vw;
+	margin-top: -10px;
+	color: #2b1811;
+}
+
+
+.about {
+	font-family: gitan-latin, sans-serif;
+	font-weight: 500;
+	font-style: italic;
+	font-size: 4vw;
+	margin-top: -20px;
+	padding-left: 0em;
+	padding-bottom: 4px;
+	color: #2b1811;
+}
+
+.about2 {
+	font-family: gitan-latin, sans-serif;
+	font-weight: 500;
+	font-style: italic;
+	font-size: 4.2vw;
+	margin-top: -20px;
+	padding-left: 0px;
+	text-align: left;
+	color: #2b1811;
+}
+
+
+.jbnav {
+	font-family: tuppence,serif;
+	font-weight: 700;
+	font-style: normal;
+
+}
+
+.pjb {
+	font-family: gitan-latin, sans-serif;
+	font-weight: 700;
+	font-style: italic;
+	font-size: 2vw;
+	line-height: 0em;
+	color: #2b1811;
+}
+
+.navfont {
+	font-family: gitan-latin, sans-serif;
+	font-weight: 600;
+	font-style: normal;
+}
+
